@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "925391868509",
+    "firebase_url": "https://java-crud-operations-52180-default-rtdb.firebaseio.com",
+    "project_id": "java-crud-operations-52180",
+    "storage_bucket": "java-crud-operations-52180.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925391868509:android:7245ed56dda5f11befb3b4",
+        "android_client_info": {
+          "package_name": "com.example.crudoperations"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5hstUMce412bluBix3MoNv5kZYGbK4g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925391868509:android:fb7306f9595d14f4efb3b4",
+        "android_client_info": {
+          "package_name": "com.example.crudopertaions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5hstUMce412bluBix3MoNv5kZYGbK4g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
